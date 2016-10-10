@@ -1,2 +1,2 @@
 # nobet
-This program will be your life more comfortable :)
+This program will make your life more comfortable :)
